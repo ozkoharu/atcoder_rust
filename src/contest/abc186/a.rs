@@ -1,4 +1,4 @@
-use procoio::input;
+use proconio::input;
 
 fn main() {
     input! {
